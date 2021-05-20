@@ -51,7 +51,7 @@ body{
 .home{
     background-color: rgb(232, 227, 238);
     color: rgb(255, 255, 255);
-    background:linear-gradient(rgba(31, 30, 88, 0.5),rgba(0, 0, 0, 0.5)), url("../img/banner2.png");
+    background:linear-gradient(rgba(31, 30, 88, 0.5),rgba(0, 0, 0, 0.5)), url("img/banner2.png");
     height: 780px;
 }
 #home .col-lg-6{
