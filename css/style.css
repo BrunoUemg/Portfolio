@@ -35,7 +35,9 @@ body{
 .navbar a:hover {
     color: rgb(220, 219, 255);
 }
-
+.navbar .navbar-toggler{
+    color: rgb(48, 70, 121);
+}
 
 
 .navbar i {
@@ -168,6 +170,9 @@ body{
         color: rgb(255, 255, 255);
         background:linear-gradient(rgba(31, 30, 88, 0.5),rgba(0, 0, 0, 0.5)), url('https://brunouemg.github.io/Portfolio/img/banner2.png');
         height: 580px;
+    }
+     #home .col-md-12{
+        border-top: 20px;
     }
     .img-sobre{
         box-shadow: 0 0 2rem rgba(1, 0, 10, 0.2);
