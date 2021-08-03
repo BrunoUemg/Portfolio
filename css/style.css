@@ -156,7 +156,13 @@ body{
 }
 
 
+@media e ( largura máxima :  750 px ) {
+        . navbar  i {
+        cor :  rgb ( 226 ,  222 ,  222 );
+        tamanho da fonte :  20 px ;
+        margem esquerda :  5 px ;
 
+    }
 
     #home{
         background-color: rgb(232, 227, 238);
@@ -174,3 +180,4 @@ body{
         
     }
 
+}
