@@ -155,5 +155,29 @@ body{
     font-weight: bold;
 }
 
+@media e ( largura máxima :  750 px ) {
+        . navbar  i {
+        cor :  rgb ( 226 ,  222 ,  222 );
+        tamanho da fonte :  20 px ;
+        margem esquerda :  5 px ;
 
+    }
+
+    #home{
+        background-color: rgb(232, 227, 238);
+        color: rgb(255, 255, 255);
+        background:linear-gradient(rgba(31, 30, 88, 0.5),rgba(0, 0, 0, 0.5)), url('https://brunouemg.github.io/Portfolio/img/banner2.png');
+        width: 550px;
+        height: 580px;
+    }
+    .img-sobre{
+        box-shadow: 0 0 2rem rgba(1, 0, 10, 0.2);
+        border-radius: 5px;
+        background-color: white;
+        width: 200px;
+        height: 200px;
+
+    }
+
+}
 
