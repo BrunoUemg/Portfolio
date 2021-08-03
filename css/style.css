@@ -171,8 +171,12 @@ body{
         background:linear-gradient(rgba(31, 30, 88, 0.5),rgba(0, 0, 0, 0.5)), url('https://brunouemg.github.io/Portfolio/img/banner2.png');
         height: 580px;
     }
-     #home .col-md-12{
-        border-top: 20px;
+    .text-titulo{
+        padding-top: 20%;
+        padding-right: 35%;
+        font-size: 50px;
+        padding-left: 5%;
+        cursor: pointer;
     }
     .img-sobre{
         box-shadow: 0 0 2rem rgba(1, 0, 10, 0.2);
