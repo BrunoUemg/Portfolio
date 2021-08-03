@@ -157,11 +157,11 @@ body{
     font-weight: bold;
 }
 
-@media e ( largura máxima :  750 px ) {
-        . navbar  i {
-        cor :  rgb ( 226 ,  222 ,  222 );
-        tamanho da fonte :  20 px ;
-        margem esquerda :  5 px ;
+ @media screen and (max-width: 750px) {
+        .navbar  i {
+        background-color:  rgb ( 226 ,  222 ,  222 );
+         font-size: 20px;
+         margin-left: 5px ;
 
     }
 
